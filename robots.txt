@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fjaumcadfkd.github.io/sitemap.xml

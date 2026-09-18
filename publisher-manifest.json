@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7f09bfc43d72662de3f6",
+  "page_size": 20,
+  "site_id": "efdb64c0e71ea9422bdf71a7",
+  "owner": "fjaumcadfkd",
+  "repo": "fjaumcadfkd.github.io",
+  "title": "网络加速服务",
+  "mode": "site",
+  "articles": [
+    {
+      "id": "986469b86eb8fe7586712c16",
+      "a": "GOOGO",
+      "b": "首页",
+      "entity": "GOOGO",
+      "brand": "GOOGO",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "acb18b9c95fd8f581f16c543fe932688dbc716be33ff64cfb5bab8e3f9cd589a",
+      "content": {
+        "primary_entity": "GOOGO",
+        "keyword1": "GOOGO",
+        "keyword2": "首页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择适配客户端，移动端与桌面端订阅可分开管理。",
+          "AI_CLIENTS_TITLE": "各设备客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定套餐，导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐开始加速",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档订阅，按月或按年灵活选择。基础版每月 100GB 流量并支持 3 台设备在线，适合轻量浏览与基础流媒体；旗舰版每月 300GB 流量并支持 5 台设备，配备 IPLC 专线游戏加速优化与原生流媒体解锁；团队版每月 1000GB 流量并支持 20 台设备，提供 VIP 专属高带宽节点与企业定制路由。每档均可按年付费获得更优价格，用户可依自身设备数量、流量消耗与使用场景匹配合适方案。",
+          "AI_FEATURES_INTRO": "从套餐规格到设备适配，三个维度帮助快速定位。",
+          "AI_FEATURES_TITLE": "选择 GOOGO 的要点",
+          "AI_FEATURE_TEXT_1": "基础版 3 台、旗舰版 5 台、团队版 20 台，按常用设备数直接匹配对应套餐即可。",
+          "AI_FEATURE_TEXT_2": "每月 100GB、300GB 与 1000GB 三档流量，轻度浏览、流媒体与多设备共享各有对应方案。",
+          "AI_FEATURE_TEXT_3": "月付灵活、年付更省，基础版年付 ¥150、旗舰版 ¥350、团队版 ¥850，长期使用可按年订阅。",
+          "AI_FEATURE_TITLE_1": "设备数量匹配",
+          "AI_FEATURE_TITLE_2": "流量档位选择",
+          "AI_FEATURE_TITLE_3": "订阅周期规划",
+          "AI_GUIDE_INTRO": "选定套餐后按设备导入订阅即可使用。",
+          "AI_GUIDE_TITLE": "订阅配置三步",
+          "AI_HERO_INTRO": "GOOGO 提供基础版、旗舰版与团队版三档海外加速订阅，流量从每月 100GB 到 1000GB，设备数从 3 台到 20 台，满足个人到团队的不同使用规模。",
+          "AI_HERO_SUBTITLE": "多档套餐覆盖个人与团队",
+          "AI_HIGHLIGHT_1": "三档套餐可选，覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线游戏加速优化",
+          "AI_HIGHLIGHT_3": "年付价格更优，长期使用更省心",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，年付分别 ¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "套餐对比与价格",
+          "AI_STEP_TEXT_1": "根据设备数量与每月流量需求，在基础版、旗舰版与团队版之间选定合适套餐。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的在线设备数与节点类型，确认能满足常用设备的加速场景。",
+          "AI_STEP_TEXT_3": "按对应客户端的订阅导入文档完成配置，在设备上连接节点即可开始使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "GOOGO 海外加速订阅",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "GOOGO 三档套餐主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "流量从 100GB 到 1000GB，设备数从 3 台到 20 台，旗舰版增加 IPLC 专线游戏优化，团队版提供 VIP 高带宽节点和定制路由。",
+          "AI_FAQ_QUESTION_2": "一台订阅可以给几台设备用？",
+          "AI_FAQ_ANSWER_2": "基础版 3 台，旗舰版 5 台，团队版 20 台。超出限制时可通过升级套餐提高并发设备数量。",
+          "AI_FAQ_QUESTION_3": "年付比月付便宜多少？",
+          "AI_FAQ_ANSWER_3": "年付相当于十个月价格。基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，均比按月支付节省两个月费用。",
+          "AI_FAQ_QUESTION_4": "不同设备需要装不同客户端吗？",
+          "AI_FAQ_ANSWER_4": "是的。iOS 常用 Shadowrocket，安卓用 Clash 或 v2rayNG，电脑端可选 Clash Verge 或 Surge，路由器端使用 OpenWrt 插件，按系统选择对应客户端。",
+          "AI_FAQ_QUESTION_5": "订阅配置一般需要哪些信息？",
+          "AI_FAQ_ANSWER_5": "需要订阅地址或配置链接，以及所选客户端的导入方式。在客户端中粘贴订阅地址并更新即可完成配置。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "a8d02934826440b4df52059a3c00bb56b13fd5f1229d5db8ddef798dfe3f3d47",
+    "sitemap.xml": "42238dc025ba59ea4b53a6fd0cc821d218e213d9b760d58095426bb8a4baa115",
+    "robots.txt": "ae215570db410a953678eac4231f4ce6de2b2ea67f1832d95fe9db05a0d100f7",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "c0170b8fcc17e70fdf6935a3be9d941c800c79f42ba109bc24afc6a700a55acb"
+}
